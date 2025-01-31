@@ -10,7 +10,7 @@
 - 🎓 **Pursuing B.Tech** at **IIIT Vadodara**.  
 - 🚀 **Working on Projects** like Online Ticket booking Platform.  
 - 💬 **Ask me anything** about **Programming or Web Development** [here](parthjindal23316@gmail.com).  
-- 🌱 **Currently learning**: NextJs,Firebase.  
+- 🌱 **Currently learning**: NextJs.  
 - ⚡ **Fun fact**: I enjoy exploring new technologies and participating in hackathons.
 
 ---
@@ -44,6 +44,10 @@
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   </a>
+  <a href="https://firebase.google.com/docs" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+</a>
+
 
   <!-- Programming Languages -->
   <a href="https://en.cppreference.com/w/c" target="_blank">
@@ -61,6 +65,9 @@
   <a href="https://www.mathworks.com/help/matlab/" target="_blank">
     <img src="https://camo.githubusercontent.com/3588919a3653169677dc926eb819687aa9803162f421737d636056f25d1e49c5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="MATLAB" width="40" />
   </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+</a>
 </p>
 
 ---
