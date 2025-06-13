@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm <span style="color: pink;">Parth Jindal</span> 👋</h1>
 
 <p align="center">
-  <em>I'm a passionate <b> Web developer</b> and a 2nd-year student at <b>IIIT Vadodara</b>.</em>
+  <em>I'm a passionate <b> Web developer</b> and a 3rd-year student at <b>IIIT Vadodara</b>.</em>
 </p>
 
 ---
