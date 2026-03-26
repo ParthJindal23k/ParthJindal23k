@@ -7,10 +7,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **Pursuing B.Tech** at **IIIT Vadodara**.  
-- 🚀 **Working on Projects** like Online Ticket booking Platform.  
+- 🎓 **Pursuing B.Tech** at **IIIT Vadodara**.    
 - 💬 **Ask me anything** about **Programming or Web Development** [here](parthjindal23316@gmail.com).  
-- 🌱 **Currently learning**: NextJs.  
+- 🌱 **Currently learning**: Ansible.  
 - ⚡ **Fun fact**: I enjoy exploring new technologies and participating in hackathons.
 
 ---
