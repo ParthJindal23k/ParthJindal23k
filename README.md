@@ -1,103 +1,131 @@
-<h1 align="center">Hello! I'm <span style="color: pink;">Parth Jindal</span> 👋</h1>
-
-<p align="center">
-  <em>I'm a passionate <b> Web developer</b> and a 3rd-year student at <b>IIIT Vadodara</b>.</em>
-</p>
-
----
-
-### 🧑‍💻 About Me
-- 🎓 **Pursuing B.Tech** at **IIIT Vadodara**.    
-- 💬 **Ask me anything** about **Programming or Web Development** [here](parthjindal23316@gmail.com).  
-- 🌱 **Currently learning**: Ansible.  
-- ⚡ **Fun fact**: I enjoy exploring new technologies and participating in hackathons.
-
----
-
-### 🛠️ Technologies & Tools
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  </a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
-  </a>
-
-  <!-- Backend -->
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/en/4x/api.html" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  </a>
-  <a href="https://firebase.google.com/docs" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-</a>
-
-
-  <!-- Programming Languages -->
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  </a>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  </a>
-  <a href="https://www.mathworks.com/help/matlab/" target="_blank">
-    <img src="https://camo.githubusercontent.com/3588919a3653169677dc926eb819687aa9803162f421737d636056f25d1e49c5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="MATLAB" width="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-</a>
-</p>
-
----
-
-
-### 🌱 What I’m Learning
-- 🌟 **Core CS Concepts**: Data Structures, Algorithms, and OOP.  
-- 🌟 **Web Development**: Frontend and Backend Technologies.  
-
----
-
-### 📫 Connect With Me
-<p align="left">
-  <!-- Connect with me -->
-  <a href="https://x.com/Parth__jindal/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/parth-jindal-79373a30a/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
- 
-</p>
-
----
-
-### 🏆 Top Projects
 <div align="center">
-  <a href="https://github.com/YourUsername/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/YourUsername/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=radical" alt="Project 2" />
-  </a>
+
+# 👋 Hey, I'm Parth Jindal
+
+### 🚀 Full Stack Developer | DSA Enthusiast | AI Developer
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Django;DSA+%7C+Competitive+Programming;Building+Real+World+Projects" />
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+- 💻 Full Stack Developer passionate about building scalable web applications
+- 🤖 Building AI-powered applications using modern AI tools and APIs
+- 🧠 Strong interest in Data Structures & Algorithms and Problem Solving
+- ⚡ Experienced with MERN Stack, Next.js, Django, and Real-Time Applications
+- 🌱 Currently working on advanced full-stack and AI-based projects
+- 🎯 Focused on becoming a Software Engineer and building impactful products
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌐 Full Stack Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### ⚙️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### 🧰 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 LearnLoop
+### Peer-to-Peer Skill Exchange Platform
+
+- 🔹 Built a full-stack skill exchange platform with real-time communication
+- 🔹 Implemented authentication, protected routes, and REST APIs
+- 🔹 Developed chat and session features using Socket.IO & WebRTC
+- 🔹 Built using React.js, Express.js, MongoDB, Tailwind CSS, and JWT
+
+---
+
+## 🤖 AI Mock Interview Platform
+
+- 🔹 AI-powered interview preparation and feedback platform
+- 🔹 Dynamic interview generation and response evaluation system
+- 🔹 Integrated Gemini/OpenAI APIs for intelligent feedback
+- 🔹 Built using Next.js, PostgreSQL, Drizzle ORM, Clerk, and Tailwind CSS
+
+---
+
+# 📈 Coding & Achievements
+
+- 🏆 Solved **400+ DSA Problems** on LeetCode
+- 🎯 Secured **97.98 Percentile in JEE Mains**
+- 📚 Maintaining **8.07 CGPA** in B.Tech CSE at IIIT Vadodara
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ParthJindal23k&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthJindal23k&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthJindal23k&theme=tokyonight" />
+
+</div>
+
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-jindal-79373a30a/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ParthJindal23k/)
+
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Code • Build • Innovate • Repeat ✨
+
 </div>
